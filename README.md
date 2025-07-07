@@ -29,7 +29,7 @@
 
 ```bash
 # کلون کردن پروژه
-git clone <YOUR_GIT_URL>
+git clone https://github.com/AdeptMehdi/engage-caption-ai.git
 
 # ورود به پوشه پروژه
 cd smart-caption-generator
@@ -79,7 +79,7 @@ Smart Caption Generator is a modern and beautiful web application for generating
 
 ```bash
 # Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/AdeptMehdi/engage-caption-ai.git
 
 # Navigate to project directory
 cd smart-caption-generator
