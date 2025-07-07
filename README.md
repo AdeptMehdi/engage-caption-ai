@@ -1,73 +1,129 @@
-# Welcome to your Lovable project
+# ژنراتور کپشن هوشمند | Smart Caption Generator ✨
 
-## Project info
+<div dir="rtl">
 
-**URL**: https://lovable.dev/projects/8b3032fe-dae5-475d-b098-3670550408a2
+## 📝 درباره پروژه
 
-## How can I edit this code?
+ژنراتور کپشن هوشمند یک وب‌اپلیکیشن مدرن و زیبا برای تولید کپشن‌های حرفه‌ای و جذاب به زبان فارسی است. این ابزار با استفاده از الگوریتم‌های پیشرفته، کپشن‌های بهینه‌شده برای پلتفرم‌های مختلف شبکه‌های اجتماعی تولید می‌کند.
 
-There are several ways of editing your application.
+### ✨ ویژگی‌های کلیدی
 
-**Use Lovable**
+- 🎯 **تولید کپشن حرفه‌ای**: کپشن‌های ساختاریافته ۵ پاراگرافه با لحن گرم و جذاب
+- 🌐 **چند پلتفرمه**: بهینه‌سازی خاص برای اینستاگرام، یوتیوب و تیک‌توک
+- 🎨 **طراحی مدرن**: رابط کاربری زیبا با انیمیشن‌های روان و بک‌گراند متحرک
+- 📱 **ریسپانسیو**: سازگار با تمام دستگاه‌ها و اندازه‌های صفحه
+- 🔤 **فونت فارسی**: استفاده از فونت Vazirmatn برای تجربه بهتر کاربران فارسی‌زبان
+- 📋 **کپی سریع**: امکان کپی کردن کپشن با یک کلیک
+- 🏷️ **هشتگ‌های هوشمند**: تولید هشتگ‌های مرتبط و بهینه برای هر پلتفرم
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8b3032fe-dae5-475d-b098-3670550408a2) and start prompting.
+### 🛠️ تکنولوژی‌های استفاده‌شده
 
-Changes made via Lovable will be committed automatically to this repo.
+- **React 18** - فریمورک جاوااسکریپت
+- **TypeScript** - برای کدنویسی ایمن‌تر
+- **Tailwind CSS** - برای استایل‌دهی سریع و مدرن
+- **Shadcn UI** - کامپوننت‌های UI زیبا و قابل تنظیم
+- **Lucide React** - آیکون‌های مدرن
+- **Vite** - ابزار ساخت سریع
 
-**Use your preferred IDE**
+### 🚀 نصب و راه‌اندازی
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+```bash
+# کلون کردن پروژه
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# ورود به پوشه پروژه
+cd smart-caption-generator
 
-# Step 3: Install the necessary dependencies.
-npm i
+# نصب وابستگی‌ها
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# اجرای پروژه در حالت توسعه
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+### 📖 نحوه استفاده
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+1. موضوع کپشن خود را در قسمت متنی وارد کنید
+2. پلتفرم مورد نظر (اینستاگرام، یوتیوب یا تیک‌توک) را انتخاب کنید
+3. روی دکمه "تولید کپشن" کلیک کنید
+4. کپشن تولیدشده را مشاهده کنید و آن را کپی کنید
 
-**Use GitHub Codespaces**
+</div>
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 📝 About the Project
 
-This project is built with:
+Smart Caption Generator is a modern and beautiful web application for generating professional and engaging Persian captions. This tool uses advanced algorithms to create optimized captions for different social media platforms.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### ✨ Key Features
 
-## How can I deploy this project?
+- 🎯 **Professional Caption Generation**: Structured 5-paragraph captions with warm and engaging tone
+- 🌐 **Multi-Platform**: Specific optimization for Instagram, YouTube, and TikTok
+- 🎨 **Modern Design**: Beautiful UI with smooth animations and animated background
+- 📱 **Responsive**: Compatible with all devices and screen sizes
+- 🔤 **Persian Font**: Uses Vazirmatn font for better Persian language experience
+- 📋 **Quick Copy**: Copy captions with one click
+- 🏷️ **Smart Hashtags**: Generate relevant and optimized hashtags for each platform
 
-Simply open [Lovable](https://lovable.dev/projects/8b3032fe-dae5-475d-b098-3670550408a2) and click on Share -> Publish.
+### 🛠️ Technologies Used
 
-## Can I connect a custom domain to my Lovable project?
+- **React 18** - JavaScript framework
+- **TypeScript** - For safer coding
+- **Tailwind CSS** - For fast and modern styling
+- **Shadcn UI** - Beautiful and customizable UI components
+- **Lucide React** - Modern icons
+- **Vite** - Fast build tool
 
-Yes, you can!
+### 🚀 Installation and Setup
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+```bash
+# Clone the repository
+git clone <YOUR_GIT_URL>
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+# Navigate to project directory
+cd smart-caption-generator
+
+# Install dependencies
+npm install
+
+# Run the project in development mode
+npm run dev
+```
+
+### 📖 How to Use
+
+1. Enter your caption topic in the text area
+2. Select your desired platform (Instagram, YouTube, or TikTok)
+3. Click the "Generate Caption" button
+4. View the generated caption and copy it
+
+### 🚀 Deployment
+
+Simply open [Lovable](https://lovable.dev/projects/8b3032fe-dae5-475d-b098-3670550408a2) and click on Share → Publish.
+
+### 🌐 Custom Domain
+
+You can connect a custom domain by navigating to Project > Settings > Domains and clicking Connect Domain.
+
+### 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+### 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+### 👨‍💻 Developer
+
+Created with ❤️ by **AdeptMehdi**
+
+---
+
+<div align="center">
+
+**[🌟 Star this project on GitHub](https://github.com/AdeptMehdi/smart-caption-generator)**
+
+Made with [Lovable](https://lovable.dev) 💜
+
+</div>
