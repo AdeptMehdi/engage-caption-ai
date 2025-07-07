@@ -100,6 +100,15 @@ All colors MUST be HSL.
   }
 
   body {
-    @apply bg-background text-foreground;
+    @apply bg-background text-foreground font-vazir;
+  }
+}
+
+/* Persian font optimizations */
+@layer utilities {
+  .font-persian {
+    font-family: 'Vazirmatn', sans-serif;
+    font-feature-settings: "kern" 1;
+    text-rendering: optimizeLegibility;
   }
 }
